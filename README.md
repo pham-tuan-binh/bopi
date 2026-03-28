@@ -1,6 +1,6 @@
-# Bopi: Your DIY Backpack Pet
+<img src="assets/bopi.gif" width="100%" />
 
-![Bopi](assets/bopi.gif)
+# Bopi: Your DIY Backpack Pet
 
 A voice agent companion running on [SenseCAP Watcher](https://www.seeedstudio.com/SenseCAP-Watcher-W1-A-p-5979.html), powered by [LiveKit](https://livekit.io) and [Dasai](https://dasai.co) animations.
 
