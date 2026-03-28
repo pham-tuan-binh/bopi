@@ -1,6 +1,6 @@
 # Bopi: Your DIY Backpack Pet
 
-![Bopi](assets/kiss.jpg)
+![Bopi](assets/bopi.gif)
 
 A voice agent companion running on [SenseCAP Watcher](https://www.seeedstudio.com/SenseCAP-Watcher-W1-A-p-5979.html), powered by [LiveKit](https://livekit.io) and [Dasai](https://dasai.co) animations.
 
@@ -17,11 +17,10 @@ Talk to it, and it reacts with expressions on screen.
 - A microSD card (any size, FAT32 formatted)
 - A USB-C cable
 - A computer with [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32s3/get-started/) v5.4+ installed
-
-> ❤️ **If you want to buy a SenseCAP Watcher, consider using the link or coupon above.** It's an affiliate link so I'll get a small percentage of your order as appreciation ^^
-
 - A [LiveKit Cloud](https://cloud.livekit.io) project (or self-hosted server)
 - The [LiveKit CLI](https://docs.livekit.io/home/cli/cli-setup/) (`lk`)
+
+❤️ **If you want to buy a SenseCAP Watcher, consider using the link or coupon above.** It's an affiliate link so I'll get a small percentage of your order as appreciation ^^
 
 ## Step 1: Prepare the SD Card
 
