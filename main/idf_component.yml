@@ -1,0 +1,23 @@
+dependencies:
+  idf: ">=5.4"
+  livekit/livekit:
+    version: "0.3.6"
+    git: https://github.com/livekit/client-sdk-esp32.git
+    path: components/livekit
+    ref: binhpham/receive-data-streams
+  livekit/sandbox_token:
+    version: ~0.1.0
+    git: https://github.com/livekit/client-sdk-esp32.git
+    path: components/sandbox_token
+    ref: binhpham/receive-data-streams
+  livekit/example_utils:
+    version: ~0.2.0
+    git: https://github.com/livekit/client-sdk-esp32.git
+    path: components/example_utils
+    ref: binhpham/receive-data-streams
+  sensecap-watcher:
+    override_path: ../components/sensecap-watcher
+  esp_io_expander_pca95xx_16bit:
+    override_path: ../components/esp_io_expander_pca95xx_16bit
+  esp_lvgl_port:
+    override_path: ../components/esp_lvgl_port
