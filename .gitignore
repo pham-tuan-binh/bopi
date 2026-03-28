@@ -1,0 +1,13 @@
+# IDF
+**/sdkconfig
+**/sdkconfig.old
+**/build
+**/managed_components
+**/dependencies.lock
+**/dist
+
+# Dotfiles/directories
+.cache/
+.claude/
+.vscode/
+.DS_Store
