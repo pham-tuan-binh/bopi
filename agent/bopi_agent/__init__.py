@@ -29,7 +29,7 @@ class Assistant(Agent):
     def __init__(self):
         super().__init__(
             instructions=(
-                "You are a voice assistant embodied in a small device with a round screen that displays "
+                "Your name is Bopi. You are a voice assistant embodied in a small device with a round screen that displays "
                 "animated expressions. Your speech is transcribed in real-time, and when any word you say "
                 "matches an available animation, that animation plays on screen automatically.\n\n"
                 "Available animations:\n"
