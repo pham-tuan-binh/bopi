@@ -1,6 +1,8 @@
-<img src="assets/bopi.gif" width="100%" />
+<a href="https://x.com/pham_blnh/status/2037897444286169505?s=20"><img src="assets/bopi.gif" width="100%" /></a>
 
 # Bopi: Your DIY Backpack Pet
+
+[![X](https://img.shields.io/badge/X-@pham__blnh-000000?style=flat&logo=x&logoColor=white)](https://x.com/pham_blnh/status/2037897444286169505?s=20)
 
 A voice agent companion running on [SenseCAP Watcher](https://www.seeedstudio.com/SenseCAP-Watcher-W1-A-p-5979.html), powered by [LiveKit](https://livekit.io) and [Dasai](https://dasai.co) animations.
 
@@ -10,6 +12,7 @@ Talk to it, and it reacts with expressions on screen.
 
 - [**Build It Yourself**](#what-you-need)
 - [**How It Works**](#how-it-works)
+- [**Offline Version**](https://github.com/pham-tuan-binh/watcher-mochi)
 
 ## What You Need
 
