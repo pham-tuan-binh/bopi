@@ -4,7 +4,7 @@
 
 [![X](https://img.shields.io/badge/X-@pham__blnh-000000?style=flat&logo=x&logoColor=white)](https://x.com/pham_blnh/status/2037897444286169505?s=20)
 
-A voice agent companion running on [SenseCAP Watcher](https://www.seeedstudio.com/SenseCAP-Watcher-W1-A-p-5979.html), powered by [LiveKit](https://livekit.io) and [Dasai](https://dasai.co) animations.
+A voice agent companion running on [SenseCAP Watcher](https://www.seeedstudio.com/SenseCAP-Watcher-W1-A-p-5979.html), powered by [LiveKit](https://livekit.io) and [Dasai](https://dasai.com.au) animations.
 
 Talk to it, and it reacts with expressions on screen.
 
@@ -135,4 +135,4 @@ Between expressions, a `blank.gif` idle animation is shown.
 
 The firmware source code is licensed under the [Apache License 2.0](LICENSE).
 
-The GIF animations in `sd_content/` are property of [Dasai](https://dasai.co) and are included here for personal use with the Bopi project. All rights to the animations belong to Dasai.
+The GIF animations in `sd_content/` are property of [Dasai](https://dasai.com.au) and are included here for personal use with the Bopi project. All rights to the animations belong to Dasai.
