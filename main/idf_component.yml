@@ -3,15 +3,15 @@ dependencies:
   livekit/livekit:
     git: https://github.com/livekit/client-sdk-esp32.git
     path: components/livekit
-    version: binhpham/receive-data-streams
+    version: feature/data-stream-sending
   livekit/sandbox_token:
     git: https://github.com/livekit/client-sdk-esp32.git
     path: components/sandbox_token
-    version: binhpham/receive-data-streams
+    version: feature/data-stream-sending
   livekit/example_utils:
     git: https://github.com/livekit/client-sdk-esp32.git
     path: components/example_utils
-    version: binhpham/receive-data-streams
+    version: feature/data-stream-sending
   sensecap-watcher:
     override_path: ../components/sensecap-watcher
   esp_io_expander_pca95xx_16bit:
